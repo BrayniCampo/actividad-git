@@ -9,4 +9,5 @@ def ingresenums():
     
   lista.append(cuantos)
   print("Los números ingresados son:", lista)
-        
+  print("Los números ingresados son:", lista)
+  print("Los números ingresados son:", lista)
