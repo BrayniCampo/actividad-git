@@ -28,4 +28,10 @@ def buscarPeliculas():
     if siEsta==False:
         print("Lo sentimos, esta película no esta disponible en cartelera. ")
         siEsta=False
+
+def darmecuenta():
+    i=0
+    while i<=10:
+        print("La vida es cool :)")
+
         
