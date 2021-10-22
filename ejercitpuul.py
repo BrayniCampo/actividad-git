@@ -11,3 +11,9 @@ def ingresenums():
   print("Los números ingresados son:", lista)
   print("Los números ingresados son:", lista)
   print("Los números ingresados son:", lista)
+  
+ def cambios():
+  
+  ingrese=int(input("Ingrese un número"))
+  
+  print("El númrto ingresado es: ", ingrese)
