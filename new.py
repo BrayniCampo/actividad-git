@@ -24,9 +24,13 @@ def buscarPeliculas():
     for i in peliculas_mostrar:
         if i==preliculaBuscar:
                 print("¡GENIAL. LA PELÍCULA BUSCADA SÍ ESTÁ EN CARTELERA!")
+                print("UUUUH SÍ ESTÁ JSJSJSJSJS")
+                print("QUÉ COOL QUE ESTÉ WIIII")
                 siEsta=True
     if siEsta==False:
         print("Lo sentimos, esta película no esta disponible en cartelera. ")
+        print("NO SE ENCUNETRAAAAA")
+        print("IS VERY SAD JSJJSJSSJSJSJSJS")
         siEsta=False
 
 def darmecuenta():
