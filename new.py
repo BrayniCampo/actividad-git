@@ -9,6 +9,8 @@ def insertarPleicula ():
         cont=0
         while cont<cuantas:
             nombre=input("Escriba el nombre de la película que desea agregar ")
+            print("QUE LO ESCIRBAAAAAAA")
+            print("RUUU RUUU RUUU RUUU EEEH")
             print("Ingrese la hora de la función de ", nombre)
             hora=input("  ")
             horarios.add(hora)
@@ -17,6 +19,9 @@ def insertarPleicula ():
         print("  Su película fue agregada exitiosamente: ")
     else: 
         print("  Si desea ver las películas disponibles, por favor vaya a la opción 2 ")
+        print("QUÉ DESEA VER")
+        print("OK NO JAJAJAJAJAJJAJAJAJA")
+        print("WIII WIII WII WII")
 
 def buscarPeliculas():
     preliculaBuscar=input("  Por favor ingrese la película que desea buscar:   ")
