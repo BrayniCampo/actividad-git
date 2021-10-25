@@ -2,6 +2,9 @@ print("Hoy está haciendo un día muy bonit0")
 
 def ingresenums():
   lista=[]
+  print("SDWDCWCWDWDCWEDXWWEEXWXWEDCEWCWW")
+  print("SDCWXXXZAAFEVEREVRVTGBT")
+  print("CXW  DSDSCVBNBVCXZSDFGHUYTRESACFGHJKJH1"=
   cuantos=int(input(" ¿Cuántos números desea agregar?" ))
   i=0
   while i<=cuantos:
@@ -9,6 +12,7 @@ def ingresenums():
     
   lista.append(cuantos)
   print("Los números ingresados son:", lista)
+  print("REALLY YO HICE ESO QUE PUTAAAS AAAAAAAG")
   print("Los números ingresados son:", lista)
   print("Los números ingresados son:", lista)
   
